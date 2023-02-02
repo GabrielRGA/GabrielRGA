@@ -1,8 +1,9 @@
-### Hi there 👋
+## Sou Gabriel Rodrigues, como vai por aí?
+### Ps. Por aqui ótimo, 😉! 
 
 <!--
 **GabrielRGA/GabrielRGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**Lembrar que o '.md', é um arquivo de tipo MarkDown, semelhante ao HTML...
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Atualmente estou desenvolvendo projetos diversas linguagens para saber qual que me adequo melhor!
+- 🌱 Estudando com mais ênfase JavaScript e TypeScript
+- 👯 Atualmente interessado em auxiliar projetos web para aprendizado, sem fins de 🤑🤑
+- 📫 Contate-me no email: rodriguesgomesgabriel@hotmail.com
+- 😄 Pronomes: Você/Ele
+
+
+
